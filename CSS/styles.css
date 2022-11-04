@@ -39,6 +39,7 @@ a:hover{
     background-image: -ms-linear-gradient(top, #85F4FF, #126E82);
     background-image: -o-linear-gradient(top, #85F4FF, #126E82);
     background-image: linear-gradient(to bottom, #85F4FF, #126E82);
+    color: #ffffff;
     text-decoration: none;
   }
   
