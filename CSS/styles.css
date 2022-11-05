@@ -150,14 +150,5 @@ p{
     width: 35%;
     float: right;
     margin-left: 30px;
-    margin-top: 40px;
+    margin-top: -40px;
 }
-
-/*
-.top-container{
-    background-color: #F5EDDC;
-    height: 200px;
-    width: 200px;
-    border-width: 10px;
-    border-style: solid;
-    padding: 20px;*/
