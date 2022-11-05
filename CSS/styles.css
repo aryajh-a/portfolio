@@ -8,6 +8,7 @@ a{
     margin:10px 20px;
     text-decoration: none;
     font-size: 1.2rem;
+    color: #51C4D3;
 }
 
 a:hover{
@@ -95,10 +96,6 @@ hr{
 
 .heading2{
     font-size: 3rem;
-}
-
-a{
-    color: #51C4D3;
 }
 
 .middle-container{
